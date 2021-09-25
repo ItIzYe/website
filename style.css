@@ -130,7 +130,7 @@ p{
 	margin: auto;
 	width: 80%;
 	flex-basis: 48%;
-	background: #c3dcf5;
+	background: #c3dcf5; 
 	border-radius: 10px;
 	margin-bottom: 5%;
 	padding: 20px 12px;
@@ -194,3 +194,21 @@ text-align: center;
 	position: relative;
 	text-align: center
 }
+
+.hero-btn{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+    }
+    .hero-btn:hover{
+    border: 1px solid #70ace6;
+    background: #70ace6;
+    transition: 1s;;
+    }
