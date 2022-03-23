@@ -9,3 +9,10 @@ Due to security problems, we couldn't update the Website in the past few months.
 ### How tu use
 
 You can use the Layout of the Website, but be aware to change all texts etc. There will be a version with placeholder Texts which will be uploaded in the next few Weeks.
+
+
+### Files that shouldn't be downloaded
+
+- <a href="https://github.com/ItIzYe/website/blob/master/test.py"Test.py</a><br>
+- <a href="https://github.com/ItIzYe/website/blob/master/script.js">Script.js</a><br>
+- <a href="https://github.com/ItIzYe/website/blob/master/laderboard2.php">Leaderboard2.php</a>
